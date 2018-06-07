@@ -1,0 +1,3 @@
+-	STA	GAMMA
+-	LDA	ALPHA
+-	STA	BETA
